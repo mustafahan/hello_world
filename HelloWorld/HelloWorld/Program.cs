@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This code for new branch");
+            Console.WriteLine("This code for second branch");
         }
     }
 }
